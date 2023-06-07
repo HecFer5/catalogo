@@ -25,7 +25,7 @@ function App() {
             </ul>
           </div>
 
-          <div className='logo'>
+          <div className="logo">
             <img src={logo} />
           </div>
 
